@@ -32,5 +32,5 @@ int main() {
         cout << "Tarif harga: Rp 80000" << endl;  // menampilkan tarif harga ke layar
     }
 
-    return 0;  // mengembalikan nilai 0 dan mengakhiri program
+    return 0;
 }
