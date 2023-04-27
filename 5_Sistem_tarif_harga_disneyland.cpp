@@ -1,7 +1,7 @@
-#include <iostream>   // menyertakan library iostream yang digunakan untuk operasi input-output
-using namespace std;  // menggunakan namespace std untuk mempermudah penulisan
+#include <iostream>   
+using namespace std;  
 
-int main() {           // fungsi utama
+int main() {          
     int umur, tinggi;  // deklarasi variabel umur dan tinggi sebagai integer
     cout << "Masukkan umur anak: ";  // menampilkan pesan "Masukkan umur anak: " ke layar
     cin >> umur;        // menerima input umur dari pengguna dan menyimpannya ke dalam variabel umur
